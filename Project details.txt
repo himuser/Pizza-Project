@@ -1,0 +1,3 @@
+In this Project we analyze key indicators for our pizza sales to gain insights into our business performance such as Total Revenue, Average Order Value, Total Pizza Sold Total Orders etc.
+
+Then we we would like to visualize various aspects of our pizza sales to gain insights and understand key trends. Some visualize trends are Daily Trends and Monthly Trends for Total Orders.
